@@ -58,6 +58,8 @@ spring.jpa.hibernate.naming.physical-strategy=org.hibernate.boot.model.naming.Ph
 
 > Make sure your MySQL server is running and a database named `rajat` exists.
 
+<img width="783" height="409" alt="Image" src="https://github.com/user-attachments/assets/722c94f5-52ad-44a8-955a-a4a48d468b28" />
+
 ---
 
 ##  Running the Application
@@ -79,6 +81,8 @@ The gRPC server will start on `localhost:9090`.
 ---
 
 ##  API (gRPC Endpoint)
+
+<img width="629" height="370" alt="Image" src="https://github.com/user-attachments/assets/6bb5516e-690b-43b6-a76c-193c19e5937c" />
 
 ### Service: `StockTradingService`
 
