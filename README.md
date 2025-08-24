@@ -60,7 +60,7 @@ spring.jpa.hibernate.naming.physical-strategy=org.hibernate.boot.model.naming.Ph
 
 ---
 
-## ▶️ Running the Application
+##  Running the Application
 
 ```bash
 # Clone the repo
